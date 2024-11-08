@@ -10,9 +10,8 @@ Develop a user-centric website prototype that enhances visual design and usabili
 Access our interactive Figma prototype here: [Decor-Figma Template](https://www.figma.com/design/N5yHcxiQQwd8dBcWl1pwcb/Decor-Figma-Template-(Community)?node-id=0-1&t=9xLQxQqDJhh9V4Oi-1)
 
 
-## Video Recording of Usability Tests: 
-Watch the usability test recording [here](https://youtu.be/JQWqwtoQEXw?si=p-Hu6PgEdNK16RUC)
----
+## Video Recording of Usability Tests:
+Watch the usability test recording [here](https://youtu.be/JQWqwtoQEXw?si=p-Hu6PgEdNK16RUC)---
 
 ## 🗂️ Sitemap
 
