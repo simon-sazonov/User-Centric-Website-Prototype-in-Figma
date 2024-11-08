@@ -1,4 +1,4 @@
-# HCI 
+# Human-Computer Interaction
 User-Centric Website Prototype in Figma
 
 This project is a high-fidelity prototype developed for a Human-Computer Interaction (HCI) course. It focuses on creating a visually engaging and highly usable website interface for a chosen audience within the culinary industry. Our design prioritizes accessibility, user experience, and interactivity, all built using [Figma](https://www.figma.com/).
